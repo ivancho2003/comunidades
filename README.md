@@ -33,7 +33,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 ## Como realizar un commit
 
-0.-Abrir el atchivo en visual studio code
+0.-Abrir el archivo en visual studio code , para esto hacer uso del comando git clone https://github.com/ivancho2003/comunidades.git
 
 1.-Crear un componente dentro de la carpeta components 
 
